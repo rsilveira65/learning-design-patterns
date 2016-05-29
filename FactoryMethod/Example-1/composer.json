@@ -1,0 +1,11 @@
+{
+  "name": "example-1",
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  },
+  "require": {
+
+  }
+}
